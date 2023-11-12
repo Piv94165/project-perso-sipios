@@ -12,7 +12,7 @@ Ce projet a pour but d'apprendre à développer une application full stack et à
 
 Le but de se projet est de réaliser une simple application de Todo.
 Notre application doit nous permettre de :
-- Créer une todo liste
+- Créer une liste de todo
 - Ajouter des tâches à réaliser
 - Les marquer comme terminées
 
@@ -23,6 +23,4 @@ Notre application doit nous permettre de :
 - Fork le repertoire
 - Aller dans le repertoire
 - Faire un make install
-- 
-
-# Pour y arriver
+- Démarrer les projets selon les README de chaque dossiers
